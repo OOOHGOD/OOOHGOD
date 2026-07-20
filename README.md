@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Liu Dechao 👋
+# Hi, I'm Leo 👋
 
 ### Computer Vision & Intelligent Driving Algorithm Engineer
 
@@ -13,11 +13,9 @@
 
 ## About / 关于我
 
-- 🎓 2026 届广州软件学院智能科学与技术本科，专业前 10%，校级优秀毕业生
 - 🚗 曾任广汽研究院智驾实习生，参与 L3 自动驾驶 4D 原始数据自动化质检与 4D 雷达点云匹配检测
 - 🔭 聚焦计算机视觉、目标检测和图像处理，具备从数据处理、模型训练到 GUI 应用落地的完整实践
 - 🚁 无人机智能识别项目负责人，使用 ROS2、PX4、QGC 与 OpenHD 搭建飞行和图像传输链路
-- 🏆 带领团队获得 10+ 项省级、国家级竞赛奖项，累计获得 6 万余元项目资助
 - 🌱 正在探索 AI Agents、RAG 与 AI-native developer tools
 - 🌏 IELTS 6.0 · CET-6
 
@@ -35,10 +33,6 @@
 - 基于 ROS2 拆分松耦合节点，集成 PX4、QGC 与 OpenHD
 - 项目获国家级大学生创新创业训练计划优秀结项，并取得专利与竞赛成果
 
-**University–Industry UAV Workstation · Lead** `2023.03 – Present`
-
-- 组织 6 场技术培训，覆盖 150+ 人次
-- 推动 2 个校企合作试点项目落地
 
 ## Featured Projects / 代表项目
 
@@ -77,4 +71,3 @@
 
 我正在寻找计算机视觉、智能驾驶算法与 AI 应用开发方向的机会，也欢迎交流目标检测、无人机视觉和深度学习工程实践。
 
-📫 **Email:** [1834391555@qq.com](mailto:1834391555@qq.com)
