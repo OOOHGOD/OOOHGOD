@@ -21,13 +21,13 @@
 
 ## Experience & Impact / 经历与成果
 
-**Intelligent Driving Intern · GAC R&D Institute** `2025.09 – 2026.03`
+**Intelligent Driving Intern · GAC R&D Institute** `2025.09 – Present`
 
 - 负责 L3 自动驾驶 4D 原始数据自动化质检
 - 参与 4D 雷达点云重合度与匹配检测算法开发
 - 编写数据验收规范，协助优化上下游协作流程
 
-**UAV Intelligent Recognition System · Project Lead** `2022.09 – Present`
+**UAV Intelligent Recognition System · Project Lead** `2022.09 – 2026.07`
 
 - 面向农业病羊识别场景，结合嵌入式平台与视觉算法构建无人机检测系统
 - 基于 ROS2 拆分松耦合节点，集成 PX4、QGC 与 OpenHD
@@ -56,6 +56,18 @@
 
 ## Tech Stack / 技术栈
 
+**AI Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+
+`LangChain` · `LangGraph` · `AI Agents` · `RAG` · `MCP` · `Prompt Engineering`
+
+**Computer Vision & Engineering**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -63,7 +75,7 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL|67](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 `NumPy` · `Pandas` · `YOLO` · `SAHI` · `PX4` · `QGC` · `FastAPI`
 
