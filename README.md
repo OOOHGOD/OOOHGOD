@@ -83,4 +83,4 @@
 
 我正在寻找计算机视觉、智能驾驶算法与 AI 应用开发方向的机会，也欢迎交流目标检测、无人机视觉和深度学习工程实践。
 
-[1834391555ldc@gmail.com](leonova1024.ai@gmail.com/)
+[leonova1024.ai@gmail.com](leonova1024.ai@gmail.com/)
