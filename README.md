@@ -7,7 +7,7 @@
 智能科学与技术本科｜专注目标检测、小目标检测与深度学习工程化
 
 [![GitHub](https://img.shields.io/badge/GitHub-OOOHGOD-181717?style=flat-square&logo=github)](https://github.com/OOOHGOD)
-[![Email](https://img.shields.io/badge/Email-1834391555ldc%40gamil.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1834391555@qq.com)
+[![Email](https://img.shields.io/badge/Email-leonova1024.ai%40gamil.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonova1024.ai@gmali.com)
 
 </div>
 
