@@ -59,4 +59,4 @@ Python · pandas · scikit-learn · PyTorch · TensorFlow · OpenCV · YOLO · L
 
 ---
 
-作者 / 维护者：[OOOHGOD](https://github.com/OOOHGOD) · [MIT License](LICENSE)。许可适用于原创贡献；第三方代码、数据集、模型与媒体素材保留各自许可，详见 [许可范围](LICENSE_SCOPE.md)。
+作者 / 维护者：[OOOHGOD](https://github.com/OOOHGOD)。

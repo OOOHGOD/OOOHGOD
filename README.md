@@ -59,4 +59,4 @@ Open to conversations and opportunities in computer vision, intelligent-driving 
 
 ---
 
-Author: [OOOHGOD](https://github.com/OOOHGOD) · [MIT License](LICENSE). The license covers original contributions; third-party code, datasets, models, and media retain their own terms (see [license scope](LICENSE_SCOPE.md)).
+Author: [OOOHGOD](https://github.com/OOOHGOD).
