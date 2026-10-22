@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leo · OOOHGOD
+#Hi I'm Leo
 
 Computer Vision · AI Agents · Data Analysis · Digital Media
 
