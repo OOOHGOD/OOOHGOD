@@ -1,16 +1,23 @@
-**English** | [简体中文](README.zh-CN.md)
-
 <div align="center">
 
-# Hi, I'm Leo
+# Leo · OOOHGOD
 
-### Computer Vision · AI Agents · Data Analysis · Digital Media
+Computer Vision · AI Agents · Data Analysis · Digital Media
 
-Intelligent Science and Technology background, with hands-on work in visual recognition, automation, and interactive applications.
+**English** · [简体中文](README.zh-CN.md)
 
-[GitHub](https://github.com/OOOHGOD) · [Email](mailto:leonova1024.ai@gmail.com)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-334155?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-334155?style=flat-square) [![MIT License](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)](LICENSE)
 
 </div>
+
+<p align="center">
+<a href="#about">About</a> · <a href="#author--license">Author &amp; License</a>
+</p>
+
+---
+
+> **Project focus** · Open-source projects & engineering experiments
+
 
 ## About
 
@@ -78,8 +85,8 @@ Interested in opportunities and collaboration in computer vision, intelligent-dr
 
 [leonova1024.ai@gmail.com](mailto:leonova1024.ai@gmail.com)
 
-## Author and license
+## Author & License
 
-Author / maintainer: [https://github.com/OOOHGOD](https://github.com/OOOHGOD).
+Author / maintainer: [OOOHGOD](https://github.com/OOOHGOD) · Original contributions: [MIT License](LICENSE)
 
-Eligible original contributions are under the [MIT License](LICENSE), permitting commercial use and modification with preservation of copyright and license notices in copies or substantial portions. [License scope](LICENSE_SCOPE.md) explains third-party exclusions and upstream terms.
+Commercial use and modification are permitted with preservation of copyright and license notices in copies or substantial portions. Third-party code, datasets, models, and media retain their own terms; see [license scope](LICENSE_SCOPE.md).
