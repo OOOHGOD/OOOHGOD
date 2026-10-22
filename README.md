@@ -6,7 +6,7 @@ Computer Vision · AI Agents · Data Analysis · Digital Media
 
 **English** · [简体中文](README.zh-CN.md)
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-334155?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-334155?style=flat-square) [![MIT License](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)](LICENSE)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-334155?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-334155?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-334155?style=flat-square)
 
 </div>
 
