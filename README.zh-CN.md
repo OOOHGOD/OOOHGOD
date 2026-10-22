@@ -8,13 +8,15 @@
 
 </div>
 
-关注 Computer Vision 与 Applied AI，实践覆盖数据处理、模型实验和可交互工具。
+智能科学与技术专业背景，关注 Computer Vision 与 Applied AI，实践覆盖数据处理、模型实验和可交互工具。
 
 **行业经历** · 曾在广汽研究院参与智驾算法工作，包括 L3 原始数据自动化质检、4D Radar Point Cloud 匹配检测与数据验收规范。
 
 **项目经历** · UAV 智能识别项目负责人，负责视觉算法实践，并以 ROS2 集成 PX4、QGC 和 OpenHD 飞行与图传链路。项目获国家级大学生创新创业训练计划优秀结项，并形成专利及竞赛成果（2022.09–2026.07）。
 
 **当前探索** · AI Agents、RAG、MCP 与 AI-native 开发工具。
+
+**英语成绩** · IELTS 6.0 · CET-6。
 
 ## 数据分析 · Data Analysis
 

@@ -8,13 +8,15 @@
 
 </div>
 
-I work across data preparation, model experiments, and usable tools, with experience in intelligent-driving data quality and UAV computer vision.
+With a background in Intelligent Science and Technology, I work across data preparation, model experiments, and usable tools, with experience in intelligent-driving data quality and UAV computer vision.
 
 **Industry experience** · Intelligent-driving algorithm intern at GAC R&D Institute, working on automated L3 raw-data checks and 4D radar point-cloud matching.
 
 **Project leadership** · Led a UAV intelligent-recognition project integrating vision algorithms with ROS2, PX4, QGC, and OpenHD. The project received national undergraduate innovation-program recognition and produced patent and competition outcomes (Sep 2022–Jul 2026).
 
 **Currently exploring** · AI agents, RAG, MCP, and AI-native developer tools.
+
+**English qualifications** · IELTS 6.0 · CET-6.
 
 ## Data Analysis
 
